@@ -5,8 +5,10 @@
 - I’m currently learning english and new stacks for frontend like a Relay, GraphQL and Socket 🌱🌱🌱
 
 ## Let's connect
-**My site:** https://gabrielferreira.dev/
+**My Site:** https://gabrielferreira.dev/
 
 **My Linkedin:** http://bit.ly/linkedin-gabrielferreira
 
 **My E-mail:** hi.gabrielferreira@gmail.com
+
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielferreiraa&show_icons=true)
