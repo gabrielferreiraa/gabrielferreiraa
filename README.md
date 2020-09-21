@@ -2,7 +2,7 @@
 
 - I’m currently working totally remote at [@iclinicapp](https://iclinic.com.br/) :earth_americas::earth_americas::earth_americas:
 
-- I’m currently learning english and new stacks for frontend like a Relay, GraphQL and Socket 🌱🌱🌱
+- I’m currently learning english and new stacks for frontend like a GraphQL and Socket 🌱🌱🌱
 
 ## Let's connect
 **My Site:** https://gabrielferreira.dev/
