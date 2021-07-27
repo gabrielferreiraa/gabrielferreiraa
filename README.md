@@ -5,11 +5,9 @@
 - Studying English, Advanced React, Javascript Memory Management, GraphQL and Socket 🌱🌱🌱
 
 ## Let's connect
-**My Site:** https://gabrielferreira.dev/
+**Linkedin:** http://bit.ly/linkedin-gabrielferreira
 
-**My Linkedin:** http://bit.ly/linkedin-gabrielferreira
-
-**My E-mail:** hi.gabrielferreira@gmail.com
+**E-mail:** hi.gabrielferreira@gmail.com
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielferreiraa&show_icons=true)
 
