@@ -2,7 +2,7 @@
 
 - I’m currently working totally remote at [@arquivei](https://arquivei.com.br/) :earth_americas::earth_americas::earth_americas:
 
-- Studying English, Advanced React, Javascript Memory Management, GraphQL and Socket 🌱🌱🌱
+- Studying English, Advanced React, Javascript Memory Management, GraphQL and Algorithms 🌱🌱🌱
 
 ## Let's connect
 **Linkedin:** http://bit.ly/linkedin-gabrielferreira
