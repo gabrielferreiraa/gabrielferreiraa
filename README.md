@@ -1,8 +1,6 @@
 ### Hi there, I'm Gabriel. I have more than 7 years of experience working with Frontend ⚡ I participate in the React community actively and I take care of some open source projects in [React Brasil](https://github.com/react-brasil) organization
 
-- I’m currently working totally remote at [@arquivei](https://arquivei.com.br/) :earth_americas::earth_americas::earth_americas:
-
-- Studying English, Advanced React, Javascript Memory Management, GraphQL and Algorithms 🌱🌱🌱
+I’m currently working remote at [@arquivei](https://arquivei.com.br/) :earth_americas::earth_americas::earth_americas:
 
 ## Let's connect
 **Linkedin:** http://bit.ly/linkedin-gabrielferreira
