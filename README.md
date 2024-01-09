@@ -1,7 +1,5 @@
 ### Frontend Engineer 7+ years of experience ⚡ I participate in the React community actively and I take care of some open source projects in [React Brasil](https://github.com/react-brasil) organization
 
-I’m currently working remote at [@arquivei](https://arquivei.com.br/) :earth_americas::earth_americas::earth_americas:
-
 ## Let's connect
 **Linkedin:** http://bit.ly/linkedin-gabrielferreira
 
