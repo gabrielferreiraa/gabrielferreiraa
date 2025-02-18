@@ -1,4 +1,4 @@
-### Frontend Engineer 7+ years of experience ⚡ I participate in the React community actively and I take care of some open source projects in [React Brasil](https://github.com/react-brasil) organization
+### Software Engineer 8+ years of experience ⚡ I participate in the React community actively and I take care of some open source projects in [React Brasil](https://github.com/react-brasil) organization
 
 ## Let's connect
 **Linkedin:** http://bit.ly/linkedin-gabrielferreira
